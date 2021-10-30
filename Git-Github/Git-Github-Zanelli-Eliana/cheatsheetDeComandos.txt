@@ -1,0 +1,10 @@
+Iniciar repositorio: git init
+Agregar archivos: git add -nombre de archivo-
+Agregar todos los archivos: git add .
+hacer commit: git commit -m "mensaje"
+Enviar cambios a repositorio remoto: Git push origin mail
+Seguir estado de los archivos: git status
+Descargar por primera vez un repositorio: git clone "url del proyecto"
+Actualizar código de repositorio local: git pull origin mail
+Crear rama: git branch "nombre de rama"
+
