@@ -1,0 +1,10 @@
+PWD: Print Working Directory =Nos indica la ubicacion de donde estamos actualmente
+ls: Lista lo que hay dentro de la carpeta donde estas.
+cd: cambiar de carpeta:
+mkdir: Crea carpeta.
+touch: Crea archivo
+git status: para ver cuales archivos estan y cuales no en el repositorio
+git commit -m:crea punto de cambio en la linea de tiempo del archivo.
+git add: para subir archvivos al repositorio
+git log: Para ver los commits (caracteristicas, autor, nombre, fecha y comentarios)
+git checkout <nombre del commi>: para volver al commit deseadogit
