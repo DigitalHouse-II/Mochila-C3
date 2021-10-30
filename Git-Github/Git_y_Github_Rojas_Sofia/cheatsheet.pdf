@@ -1,0 +1,19 @@
+Crear
+Clonar un repositorio existente
+$git clone https://github.com/usuario/repositorio.git
+Crear un nuevo repositorio loca
+$ git init
+
+Establecer el usuario y el email
+$ git config --global user.name "nombre del usuario"
+$ git config --global user.email email@email.com
+
+Añadir un archivo 
+$ git add nombre_archivo_directorio (archivo especifico)
+$ git add . (todos los archivos)
+
+Commitear un archivo/directorio 
+$ git commit -m "mensaje del commit"
+
+Actualizar el repositorio remoto existente 
+$ git push origin [nombre de la rama]
