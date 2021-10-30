@@ -1,0 +1,23 @@
+Hoja de Comandos
+Clonar un repositorio
+$git clone https:// ...
+Crear un repositorio local
+$git init
+Configurar usuario y email
+$git config user.name
+$git config user.email
+Agregar archivos 
+$git add nombre
+Estado del repo
+$git status
+Hacer commit
+$git commit -m "mensaje"
+Eliminar del repositorio
+$git rm --cached
+Subir a la nube
+$git push origin
+Clonar repositorio
+$git clone https:// ...
+Descargar modificaciones
+$git pull origin rama
+
