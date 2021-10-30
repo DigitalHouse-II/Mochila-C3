@@ -1,0 +1,5 @@
+a. Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Fue pensando para la eficiencia del trabajo en eqipo la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+b. Pertenece a Microsoft porque la compro.
+
+c. Otra forma de subir info en Github: github desktop
