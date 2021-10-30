@@ -1,0 +1,10 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un proyecto de código abierto y  con un mantenimiento activo que desarrollo originalmenteLinus Linus Torvalds, el famoso creador de Linux. 
+ En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper.
+
+¿A  quién pertenece actualmente Github y por qué?
+La compra de Github fue por parte de Microsoft por la suma de 7500 millones de dolares.
+
+¿Hay otra forma que no sea la temrinal para trabajar con github?
+No lo sé. Recién encuentro un tutorial que dice cómo usar github sin la terminal y muestra que descarga la aplicación de github pero no pude terminar de verlo. 
