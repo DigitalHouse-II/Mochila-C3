@@ -5,3 +5,4 @@ GitHub continúa siendo la plataforma más importante de colaboración para proy
 Desarrollador	Tom Preston-Werner Chris Wanstrath PJ Hyett
 Propietario	Microsoft GitHub Inc. Microsoft
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
+No se puede usar de otra manera
