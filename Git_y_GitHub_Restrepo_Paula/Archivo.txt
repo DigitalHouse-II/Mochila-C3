@@ -1,0 +1,5 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué? Respuestas: fue creado por Linus Torvalds, el creador del sistema operativo Linux en 2005, y lo hizo pensando en la eficiencia, la confiabilidad y compatibilidad de versiones de aplicaciones, cuando tienen un gran numero de archivos.
+
+b. ¿A quién pertenece actualmente Github y por qué? Respuesta: Actualmente Github pertenece a Microsoft.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github? Respuesta: Si, directamente con Visual Studio Code.
