@@ -1,0 +1,7 @@
+Cheatsheet comandos más utilizados
+- Git init: crea un nuevo repositorio
+- Git status: nos dice el estado del repositorio
+- Git add: Agrega archivos al repositorio
+- Git commit: Sube los cambios
+- Git push: Sube los cambios al repositorio remoto
+- Git pull: Trae los cambios del repositorio remoto
