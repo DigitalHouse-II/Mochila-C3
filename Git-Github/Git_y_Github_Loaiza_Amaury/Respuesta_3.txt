@@ -1,1 +1,1 @@
-Podemos trabajar, por CLI y Por Web 
+Podemos trabajar, por CLI y por acceso Web cualquiera de ellas. 
