@@ -1,0 +1,22 @@
+Agregar archivos al repositorio local
+Agregar archivo puntual
+$ git add “nombre archivo”
+Agregar todos los archivos
+$ git add .
+Ramas o branches
+Cambiar de máster a main
+$ git branch -m main 
+Ramas
+Crear una rama
+$git branch “nombre de  branch que quiero crear”
+Para ir a una rama puntual
+$ git checkout “el branch al que quiero ir”
+Ramas existentes
+$git Branch -a
+Copiar repositorio
+$ git clone URL
+$ git remote add origin URL
+Cargar cambios de repositorio local al servidor remoto 
+$git push origin main
+Descargar archivos del repositorio remoto al local
+$git pull origin main
