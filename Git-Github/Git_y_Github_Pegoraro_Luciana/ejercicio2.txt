@@ -1,0 +1,15 @@
+git clone <https://link-con-nombre-del-repositorio>
+git branch <nombre-de-la-rama>
+git branch
+git branch --list
+git branch -d <nombre-de-la-rama>
+git checkout <nombre-de-la-rama>
+git checkout -b <nombre-de-tu-rama>
+git status
+git add <archivo>
+git add -A
+git commit -m "mensaje de confirmación"
+git push --set-upstream <nombre-remoto> <nombre-de-tu-rama>
+git push -u origin <nombre-de-tu-rama>
+git pull <nombre-remoto>
+git checkout dev
