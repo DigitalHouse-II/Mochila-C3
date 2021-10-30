@@ -1,0 +1,11 @@
+git init - repositorio local
+git remote add origin link - entrar al repositorio 
+git remote -v - veo donde estoy vinculada
+git push - subo archivos a la nube
+git push origin main - subo al repositorio propio
+git clonte link - clonar
+git branch nombrerama - rama
+git checkout rama - me muevo entre ramas
+git merge - fusiono información
+git log - veo los commits
+git commit -m "nombre commit"
