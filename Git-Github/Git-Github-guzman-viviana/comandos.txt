@@ -1,0 +1,11 @@
+COMANDOS GIT:
+git clone url //clonar repositorio remoto
+git branch nombreRama -a // listar ramas
+git branch -d nombreRama // borrar rama 
+git branch nombreRama // crear uan rama nueva
+git checkout nombreRama // cambiar de rama
+git merge nombreRama // fusionar rama
+git init // inicializar seguimiento
+git remote add origin url// vincular un repositorio
+git pull origin rama // actualizar repositorio
+
