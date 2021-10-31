@@ -5,4 +5,4 @@ Git es un sistema de control de versiones distribuido que, como ya hemos introdu
 Microsoft
 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
-Sí hay 
+Sí hay. Existe GitHub Desktop 
