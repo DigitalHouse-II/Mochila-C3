@@ -23,11 +23,9 @@ El 28 de julio de 2020 GitHub hizo pública su hoja de ruta donde da a conocer t
 los nuevos avances y los desarrollos futuros que prepara esta plataforma.
 El objetivo principal es que el mundo esté preparado para los nuevos cambios que 
 se avecinan.
-
 c. Existen muchas formas de usar Git. Por un lado tenemos las herramientas 
 originales de línea de comandos, y por otro lado tenemos una gran variedad 
 de interfaces de usuario con distintas capacidades.
 La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos 
-de Git - la mayoría de interfaces gráficas de usuario solo implementan una parte 
-de las características de Git por motivos de simplicidad. 
-
+de Git. la mayoría de interfaces gráficas de usuario solo implementan una parte 
+de las características de Git por motivos de simplicidad.
