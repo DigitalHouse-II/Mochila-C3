@@ -1,1 +1,1 @@
-la interfaz grafica
+La otra forma para trabajar en Git Hub es la interfaz grafica
