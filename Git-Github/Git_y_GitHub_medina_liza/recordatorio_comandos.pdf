@@ -1,0 +1,29 @@
+crear
+clonar un repositorio existente
+$ git clone ssh://usuario@existente.com.git
+
+crear un nuevo repositorio
+$ git init
+
+ayuda
+para ver la guia de uso y comandos
+git help
+algunos especificos
+git help add
+git help commit
+
+añadir un archivo al repositorio
+git add nombre_del_archivo
+git add . para agregar todos los archivos de una carpeta
+
+remover un archivo 
+git rm archivo
+
+historial
+ver la actividad en el repositorio
+git log
+
+comandos de la terminal
+para limpiaar la terminal
+crtl + l 
+clear
