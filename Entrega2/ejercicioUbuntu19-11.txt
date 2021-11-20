@@ -1,3 +1,5 @@
 1. debido a la arquitectura de cada sistema operativo, la forma en la que cada lenguaje es interpretado debe ser compatible con el mismo (ej: 32 o 64bits)
 2. virtualBox es una aplicación que sirve para virtualizar sistemas operativos dentro de uno printipal (host)
 3. no afecta el funcionamiento de las demas maquinas virtuales debido a que cada una tiene recursos diferentes. 
+4.
+
