@@ -15,4 +15,4 @@ En su interior crea una capa de software llamada hipervisor
 el cual se instala sobre el hardware de la maquina.
 
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
-R//No afectaria las demas ya que cada maquina es independiente de las otras.
+R//No afectaria las demas ya que cada maquina es independiente de las otras..
