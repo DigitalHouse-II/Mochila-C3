@@ -1,0 +1,16 @@
+1. ¿Por qué un lenguaje de programación solo puede utilizarse en 
+algunos sistemas operativos y en otros no?
+	Porque depende del tipo de lenguaje de programación y su tipo de compilacion.
+	Por ejemplo si es compilado depende del tipo de maquina en donde se compile 
+	el que dicho programa funcione bien en otro que debe tener una  arquitectura similar.	
+
+2. ¿Qué tipo de maquina virtual es virtual box?
+	Es de hipervisor tipo 2, tiene la arquitectura de host, es un programa
+	 que se encarga de la virtualización de las máquinas
+
+3. Si tengo más de una máquina virtual y una se rompe ¿estoafecta a las demás?¿Por qué?
+	No, porque son máquinas aisladas y todo lo que pase en cada una es totalmente
+	independiente de lo que ocurra en las otras e incluso independiente del sis-
+	tema operativo host
+
+
