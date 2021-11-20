@@ -1,0 +1,12 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+El lenguaje se compila y genera un código que pueda ejecutar la computadora, ésta debe tener las mismas características de la máquina virtual (infraestryctura y cpu).
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+
+Respuesta dos: VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una máquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que estés usando
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Las máquinas virtuales se conectan a la red a través del conmutador de red virtual. En función de la configuración del conmutador virtual, una VM puede utilizar una red virtual existente gestionada por el hipervisor, o un método de conexión de red diferente. Por tanto, puede tener la misma configuración IP, sin embargo, las máquinas virtuales están aisladas entre sí y no hay riesgo de conflicto.
