@@ -1,0 +1,8 @@
+¿Por qué un lenguaje de programción sólo puede utilizarce en algunos sistemas operativos y en otros no?
+Etá relacionado con la arquitectura y los sistemas operativos de los equipos, si no coincide, requeriren de otras herramintas para que pueda ser interpretado.
+
+¿Qué tipo de máquina virtual es virtul box?
+Es un hypervisor tipo2 , la cual permite cargar distintos sistemas operativos.
+
+Si tengo mas de una máquina virtual instalada, y una se rompe, ¿ esto afecta a las demás ? ¿por qué?
+No afecta a las demás, porque las máquinas virtuale funcionan de manera indepenidente al equipo que esté habitando.
