@@ -1,0 +1,9 @@
+1. ¿Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en
+otros no? Esto sucede porque muchas veces no cumple la maquina con las caracteristicas esenciales 
+del lenguaje.
+
+2. ¿Que tipo de maquina es virtual box?Es un hipervisor de tipo 2 que se utiliza para visualizar
+un SO sobre nuestro sistema operativo principal.
+
+3. ¿Si las maquinas virtuales se encuentran separadas no afectaria a las demas que una se rompa?
+No, no afectaria en nada, porque por lo mismo cada una tiene por decir asi su espacio.
