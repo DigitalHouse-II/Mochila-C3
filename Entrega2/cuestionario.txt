@@ -1,0 +1,15 @@
+1. ¿Por qué un lenguaje de programción solo puede utilizarse en algunos sistemas operativos y 
+otros no? 
+R——Un lenguaje es el medio por el cual se le dan instrucciones a una computadora para indicarle lo 
+que el programa debe hacer, estas instrucciones deben pasar el codigo que escribimos al codigo a
+un codigo que Ia maquina entienda, a eso se le conoce como compilación. El resultado de Ia misma 
+es decir el ejecutable debe poder ejecutarse correctamente siempre y cuando Ia maquina donde se 
+compile similar a donde se ejecute o sea que tenga Ia misma arquitectura de CPU similar y tambien 
+un sistema operativo similar. Si no cumple con estos requisitos no podra utilizarse determinado 
+lendudje de programación en algunos sistemas operativos . 
+2. ¿Que tipo de maquina virtual es VirtudlBox? 
+R——VirtudlBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, 
+Que se  utiliza para virtual izar sistemas operativos dentro de nuestro ordenador . 
+3. Si tengo mas de una maquina virtual instalada, y se rompe una ¿esto afecta a las demas? 
+¿por qué? 
+R——No, por que cada maquina virtual actua de manera independiente . 
