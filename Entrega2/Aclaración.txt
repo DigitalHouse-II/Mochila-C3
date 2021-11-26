@@ -1,0 +1,2 @@
+Vero, pude clonar el repositorio compartido de la camada en la máquina virtual pero no pude subir el trabajo desde ahí porque me pedía el token.
+Adjunto la captura mostrando que creé el archivo
