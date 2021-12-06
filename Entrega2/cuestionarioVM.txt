@@ -1,0 +1,25 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y
+otros no?
+R/Un lenguaje de programación son los medios a través de los cuales damos instrucciones a la
+computadora para indicarle lo que nuestro programa debe hacer, dichas instrucciones tienen que
+pasar del código que escribimos a un código que la máquina entienda, a eso se le llama compilación.
+El resultado de la compilación, o sea, el ejecutable debería poder ejecutarse correctamente
+siempre y cuando la máquina donde se compile sea similar a donde se ejecute, es decir, tener una
+arquitectura de CPU similar y también un sistema operativo similar. Si no se cumplen estos
+requisitos no podrá utilizarse determinado lenguaje de programación en algunos sistemas
+operativos.
+Adicionalmente, las especificaciones técnicas del lenguaje las da el creador por ejemplo: la
+arquitectura donde debe funcionar.
+2. ¿Qué tipo de máquina virtual es VirtualBox?
+R/Es una máquina virtual de sistema, esto quiere decir que emula a un ordenador completo. Es
+un software que puede hacerse pasar por otro dispositivo de tal modo que se puede ejecutar otro
+sistema operativo en su interior. Así, cuenta con su disco duro propio, memoria, tarjeta gráfica
+y otros componentes de hardware; es importante aclarar que todos son virtuales. De esta forma,
+la emulación es transparente e invisible para el sistema operativo ejecutado en la máquina virtual.
+Esto es, funiona como si se ejecutase en un ordenador sin que realmente sepa que está dentro de
+otro sistema operativo. Y es que la máquina virtual no puede acceder en ningún caso al anfitrión
+o host,aunque físicamente esté funcionando en la misma. Sin embargo, VirtualBox cuenta con atajos
+y herramientas que facilitan la labor de mover archivos entre máquinas.
+3. Si tengo más de una máquina virtual instalada, y una se rompe ¿esto afecta a las demás?
+¿por qué?
+R/No, porque cada máquina virtual actúa de manera independiente.
