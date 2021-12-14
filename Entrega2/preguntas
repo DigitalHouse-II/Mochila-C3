@@ -1,0 +1,13 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Los tipos de sistemas operativos varían según el hardware y la función de cada dispositivo. En general un lenguaje de programación sirve para programar. Sin embargo cada uno tiene un alcance y forma de comunicación diferente.
+
+En resumidas cuentas, el lenguaje de bajo nivel permite la comunicación interna de la máquina, cada instrucción tiene su código único de operación.
+
+Y el lenguaje de alto nivel facilita la captación de instrucciones que el programador le da a la máquina, mientras que éste introduce datos en el idioma conocido la máquina lo va absorbiendo en lenguaje de máquinas mediante traductores o compiladores, permitiendo así: reducir el tiempo de programación, entender más fácilmente la tarea a realiza, permitir al programador desvincularse del funcionamiento interno de la máquina, entre otros.
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en qué necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No, si una de las máquinas virtuales se rompe no afectará a la otra. Cada máquina virtual es una “computadora” individual y no se ve afectada por las acciones que realicemos en las demás.
+Subir este archivo a la mochila del viajero-
