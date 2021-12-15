@@ -1,55 +1,5 @@
-﻿No  
+﻿
 
-
-
-
-
-
-
-
-                       
-* Introducción a irla Informática
-
-
-Ejercitación 
-En las mesas de trabajo realizamos los siguientes pasos: 
-Procederemos a instalar Git a través de la consola de comandos.
-* Lo primero que debemos hacer es verificar que tengamos conexión a Internet, para esto utilizaremos el comando ping:
-ping -c 2 www.digitalhouse.com.ar
-  
-
-  
-
-
-
-
-
-
-
-   * Si existiera algún tipo de problema, revisar que el tipo de conexión de la MV esté en modo nat.
-   * Si no ingresamos con el usuario root, podemos cambiarnos al mismo utilizando el comando su root, a continuación, debemos introducir la contraseña establecida. Si la máquina virtual es nueva deberian agregar la clave root con el comando sudo passwd root.
-   *      * En caso de tener que agregarlo recomendamos que la contraseña sea root (usuario: root contraseña: root)  
-   * Ahora procedemos a instalar Git a través del comando: apt-get install git
-
-
-  
-
-
-
-
-
-
-
-
-
-      * Puede que en algún momento nos pida una confirmación para seguir la instalación. Basta con poner la letra S o Y seguido de Enter para continuar.
-      * Luego probamos que Git haya sido instalado a través del comando git --version
-  
-
-  
-
-      * En formato TXT,  resolver el siguiente cuestionario:                                
-Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
 
 
       1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
@@ -68,17 +18,7 @@ Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecut
 Para el sistema operativo que se ejecuta dentro de la máquina virtual toda esta emulación es transparente e invisible. Todo funciona igual a si se estuviera ejecutando en un PC normal, sin que sepa que en verdad está metido dentro de una burbuja dentro de otro sistema operativo. De hecho, nada te impide hacer como en la película Inception / Origen y crear otra máquina virtual dentro de la anterior máquina virtual.
 
 
-        Sacar una captura de pantalla de los commits hechos y el cuestionario resuelto y subirlos a la mochila
-
-
-
-
-
-
-                Opcional: 
-      * Clonar la mochila del viajero personal dentro de la Máquina virtual y subir el archivo de la ejercitación desde la misma.  
-      * Para crear el TXT debemos usar el comando touch y luego modificarlo a través de GNU Nano.
-      * EN CASO DE NECESITAR TOKEN PARA HACER PUSH, SOLO PUEDE SER COLOCADO COPIANDO LETRA POR LETRA DEL MISMO
+        
 
 
 
