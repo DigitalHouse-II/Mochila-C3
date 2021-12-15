@@ -1,0 +1,71 @@
+﻿No  
+                     
+* Introducción a irla Informática
+
+
+Ejercitación 
+
+En las mesas de trabajo realizamos los siguientes pasos: 
+
+Procederemos a instalar Git a través de la consola de comandos.
+
+* Lo primero que debemos hacer es verificar que tengamos conexión a Internet, para esto utilizaremos el comando ping:
+ping -c 2 www.digitalhouse.com.ar
+  
+
+
+
+   * Si existiera algún tipo de problema, revisar que el tipo de conexión de la MV esté en modo nat.
+   * Si no ingresamos con el usuario root, podemos cambiarnos al mismo utilizando el comando su root, a continuación, debemos introducir la contraseña establecida. Si la máquina virtual es nueva deberian agregar la clave root con el comando sudo passwd root.
+   *      * En caso de tener que agregarlo recomendamos que la contraseña sea root (usuario: root contraseña: root)  
+   * Ahora procedemos a instalar Git a través del comando: apt-get install git
+
+
+  
+
+      * Puede que en algún momento nos pida una confirmación para seguir la instalación. Basta con poner la letra S o Y seguido de Enter para continuar.
+      * Luego probamos que Git haya sido instalado a través del comando git --version
+  
+
+
+      * En formato TXT,  resolver el siguiente cuestionario:                                
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+
+
+      1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Hay lenguajes de programación interpretados, compilados y de virtual machine (vm). Los lenguajes de vm suelen ser multiplataforma y permiten ser utilizados en diferentes sistemas operativos ya que se instala la vmy se puede correr cualquier aplicación que esté en ese lenguaje. Un ejemplo de lenguaje vm   es Java.  La vm Java puede instalarse en windows, en linux, en mac, o en android y así correrá cualquier sistema desarrollado con java. En cambio hay otros lenguajes que no presentan esta características. Los lenguajes interpretados y compilados requieren de una infraestructura y de un sistema operativo similar a la arquitectura y al sistema operativo donde se ejecutará. A continuación brindamos algunos ejemplos:
+Swift: ecosistemas Apple
+Kotlin: Aplicaciones móviles Android
+ Es decir, el lenguaje, arquitectura y sistema operativo deben ser compatibles. 
+
+
+
+      2. ¿Qué tipo de máquina virtual es virtualBox?. R// VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, 
+creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en que necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host.((https://www.geeknetic.es/VirtualBox/que-es-y-para-que-sirve)
+
+
+      3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?Subir este archivo a la mochila del viajero.
+
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. Se pueden ejecutar varias máquinas virtuales a la vez, pueden aparecer como aplicaciones en pantallas separadas.
+Para el sistema operativo que se ejecuta dentro de la máquina virtual toda esta emulación es transparente e invisible. Todo funciona igual a si se estuviera ejecutando en un PC normal, sin que sepa que en verdad está metido dentro de una burbuja dentro de otro sistema operativo. De hecho, nada te impide hacer como en la película Inception / Origen y crear otra máquina virtual dentro de la anterior máquina virtual.
+
+
+        Sacar una captura de pantalla de los commits hechos y el cuestionario resuelto y subirlos a la mochila
+
+
+                Opcional: 
+
+
+
+
+      * Clonar la mochila del viajero personal dentro de la Máquina virtual y subir el archivo de la ejercitación desde la misma.  
+      * Para crear el TXT debemos usar el comando touch y luego modificarlo a través de GNU Nano.
+      * EN CASO DE NECESITAR TOKEN PARA HACER PUSH, SOLO PUEDE SER COLOCADO COPIANDO LETRA POR LETRA DEL MISMO
+
+
+
+
+
+
+3
